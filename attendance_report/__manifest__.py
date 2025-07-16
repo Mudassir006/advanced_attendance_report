@@ -25,7 +25,7 @@ Perfect for organizations needing a reliable and professional way to analyze emp
     'website': 'http://184.73.138.233:8069/',
     'license': 'LGPL-3',
     'currency': 'USD',
-    'price' : "10.0"		
+    'price' : "10.0",		
     'depends': [
         'hr_attendance',
         'hr_holidays',
