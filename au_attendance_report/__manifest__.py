@@ -21,11 +21,9 @@ Perfect for organizations needing a reliable and professional way to analyze emp
 """,
 
     'category': 'Human Resources',
-    'author': 'Muhammad Mudassir',
-    'website': 'http://184.73.138.233:8069/',
-    'license': 'LGPL-3',
-    'currency': 'USD',
-    'price' : "10.0",		
+    'author': 'Mudassir Amin',
+    'website': 'mudassir.odoo@gmail.com',
+    'license': 'LGPL-3',		
     'depends': [
         'hr_attendance',
         'hr_holidays',
