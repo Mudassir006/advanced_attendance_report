@@ -218,7 +218,7 @@ class AttendanceReportWizard(models.TransientModel):
             'show_leaves': self.show_leaves,
             'show_remaining_leaves': self.show_remaining_leaves,
         }
-        return self.env.ref('attendance_report.attendance_report_action').report_action(self, data=data)
+        return self.env.ref('au_attendance_report.attendance_report_action').report_action(self, data=data)
 
     def generate_xls_report(self):
 
